@@ -1,58 +1,53 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Thomas Le Goff",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "thomaslegoffpro@gmail.com",
+    "phone": "",
+    "website": "https://thewrath.github.io",
+    "summary": "I am a student in the IMR apprenticeship training at ENSSAT in Lannion, I will normally graduate in 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "22300",
+      "city": "Lannion",
+      "countryCode": "France",
+      "region": "Brittany"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "thewrath",
+        "url": "http://github.com/thewrath"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Raspberry PI",
+        "Orange PI"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Graphics programming",
       "keywords": [
+        "OpenGL",
+        "DirectX",
+        "Vulkan",
+        "SDL2"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Programming language & software design",
       "keywords": [
+        "Rust",
+        "Javascript V8",
+        "Gang of fourth",
+        "Design pattern",
+        "MVC"
       ]
     }
   ],
@@ -83,10 +78,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "ENSSAT, Lannion, France",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "IMR",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,56 +90,19 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Azimut",
+      "position": "Web Developer and software designer",
+      "website": "azimut.net",
+      "startDate": "2018-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Digital solution designer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Software project development and design",
+        "Maintenance improvement and support of software"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
